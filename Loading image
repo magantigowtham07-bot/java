@@ -1,0 +1,2 @@
+Image image = new Image("file:imagePath.jpg");
+ImageView imageView = new ImageView(image);
