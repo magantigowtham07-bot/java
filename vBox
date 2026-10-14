@@ -1,0 +1,2 @@
+VBox vbox = new VBox(10);  // 10 pixels spacing
+vbox.getChildren().addAll(label, imageView);
